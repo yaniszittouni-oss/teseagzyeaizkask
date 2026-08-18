@@ -1,0 +1,1 @@
+{"version":3,"file":"bnb.provider.js","sourceRoot":"","sources":["../../../src/blockchain/providers/bnb.provider.ts"],"names":[],"mappings":";;;AAAA,0CAAuC;AACvC,sDAAkD;AAElD;;;;GAIG;AACU,QAAA,WAAW,GAAG,IAAI,0BAAW,CAAC;IACzC,KAAK,EAAE,KAAK;IACZ,OAAO,EAAE,EAAE;IACX,eAAe,EAAE,qBAAqB;IACtC,MAAM,EAAE,SAAG,CAAC,eAAe,IAAI,SAAG,CAAC,iBAAiB;IACpD,YAAY,EAAE,KAAK;CACpB,CAAC,CAAC"}
